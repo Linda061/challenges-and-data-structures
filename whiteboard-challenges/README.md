@@ -1,6 +1,8 @@
 # Whiteboard Challenges
 
-This folder will contain my challenge explanations and solution images.
+
+
+1) Array reversal:
 
 ![Array Reversal problem domain](ArrayReversalpd.png)
 ![Array Reversal algorithm ](arrayrevAL.png)
@@ -9,6 +11,7 @@ This folder will contain my challenge explanations and solution images.
 ![Array Reversal output](codeOutput.png)
 ![Array Reversal complexity](arrayrevC.png)
 
+2) Most frequent number:
 
 ![most frequent number problem domain](mfnPD.png)
 ![most frequent number algorithm ](mfnAL.png)
