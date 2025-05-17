@@ -8,4 +8,5 @@
 
  (https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/MFN1.png)
 
- 
+ ### 3. minimum value
+  (https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/minimumValue.png)
