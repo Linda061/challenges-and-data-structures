@@ -16,4 +16,6 @@
  [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/Challenges/Reverse-Characters/ReversedCharacters.png)
 
   ### 5. remove middle value
- [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/RMVwb.png)
+
+ [whiteboard](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/RMVwb.png) - [output](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/RMVoutput.png)
+
