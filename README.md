@@ -2,12 +2,13 @@
  
  ### 1. Array reversal
 
- (https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/ArrayReversall.png)
+ [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/ArrayReversall.png)
+
 
  ### 2. Most frequent number
 
- (https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/MFN1.png)
+ [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/MFN1.png)
 
  ### 3. minimum value
+ [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/minimumValue.png)
 
- (https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/minimumValue.png)
