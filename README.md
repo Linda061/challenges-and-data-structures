@@ -8,3 +8,6 @@
 
 ### 3. minimum value  
 [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/minimumValue.png)
+
+### 4. reversed Characters  
+[link](https://github.com/Linda061/challenges-and-data-structures/blob/main/Challenges/Reverse-Characters/ReversedCharacters.png)
