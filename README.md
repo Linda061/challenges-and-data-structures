@@ -2,7 +2,7 @@
  
  ### 1. Array reversal
 
- [linkl](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/ArrayReversall.png)
+ [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/ArrayReversall.png)
 
 
  ### 2. Most frequent number
