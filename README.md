@@ -2,14 +2,18 @@
  
  ### 1. Array reversal
 
- (https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/ArrayReversall.png)
+ [linkl](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/ArrayReversall.png)
+
 
  ### 2. Most frequent number
 
- (https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/MFN1.png)
+ [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/MFN1.png)
 
  ### 3. minimum value
-  (https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/minimumValue.png)
+ [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/minimumValue.png)
 
   ### 4. reversed Characters
-  (https://github.com/Linda061/challenges-and-data-structures/tree/main/Challenges/Reverse-Characters)
+ [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/Challenges/Reverse-Characters/ReversedCharacters.png)
+
+  ### 5. remove middle value
+ [link](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/RMVwb.png)
