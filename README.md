@@ -19,3 +19,5 @@
 
  [whiteboard](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/RMVwb.png) - [output](https://github.com/Linda061/challenges-and-data-structures/blob/main/whiteboard-challenges/images/RMVoutput.png)
 
+### 6. linked list
+[link](https://github.com/Linda061/challenges-and-data-structures/tree/main/DataStructures/LinkedList)
