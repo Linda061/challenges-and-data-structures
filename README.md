@@ -24,3 +24,6 @@
 
 ### 7. revesed linked list
 [link](https://github.com/Linda061/challenges-and-data-structures/tree/main/DataStructures/LinkedList/Linked-List-Implementation/reverse)
+
+### 8. merge sorted
+[link](https://github.com/Linda061/challenges-and-data-structures/tree/main/DataStructures/LinkedList/Linked-List-Implementation/MergeSorted)
